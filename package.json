@@ -9,6 +9,6 @@
   "author": "Ganesha <reekoheek@gmail.com>",
   "license": "MIT",
   "optionalDependencies": {
-    "xin": "github:xinix-technology/xin#next"
+    "xin": "github:xinix-technology/xin#2.3.1"
   }
 }
